@@ -1,6 +1,6 @@
 ---
-title: HTML - Chapitre 2 | What's in your <head> ?
-description: HTML - Chapitre 2 | What's in your <head> ?
+title: HTML - Chapitre 2 | What's in your &lt;head&gt; ?
+description: HTML - Chapitre 2 | What's in your &lt;head&gt; ?
 show_toc: true
 ---
 
@@ -13,7 +13,8 @@ show_toc: true
 
 ````stepper
 # Valider la ressource suivante
-[Voir la ressource "HTML - Chapitre 1 | Introduction au HTML"](https://github.com/simplonco/dev-web-html-chapitre-1-introduction-au-html/)
+[HTML - Chapitre 1 : Introduction au HTML](https://simplonco.github.io/dev-web-html-chapitre-1-introduction-au-html/)
+
 # Connaitre la structure de base d'un document HTML
 ```html
 <!DOCTYPE html>
@@ -88,17 +89,17 @@ Voici quelques bons exemples de titre pour des pages HTML (note que ton `<head>`
 <title>Learn HTML5 \| Best courses - Wild Code School</title>
 ```
 
-```xtext arrow
-**🎯 À toi de jouer !**
 
-Effectue quelques recherches sur google et regarde comment sont structurés les titres des pages web en fonction de tes recherches.
+>#### 🎯 À toi de jouer !
+>
+>Effectue quelques recherches sur google et regarde comment sont structurés les titres des pages web en fonction de tes recherches.
+>
+>Note les titres qui attirent le plus ton oeil.
+>
+>Ensuite, change le titre des pages que tu as créées dans le chapitre précédent en respectant les principes que tu as pu observer.
+>
+>Note en commentaire la raison pour laquelle tu as choisi chacun des titres.
 
-Note les titres qui attirent le plus ton oeil.
-
-Ensuite, change le titre des pages que tu as créées dans le chapitre précédent en respectant les principes que tu as pu observer.
-
-Note en commentaire la raison pour laquelle tu as choisi chacun des titres.
-```
 
 ### Les métadonnées
 
@@ -131,11 +132,10 @@ La **description** est entre autres utilisée par les moteurs de recherches lors
 <meta name="description" content="Webdesigner, graphiste et developpeur frontend freelance, je désigne et développe des applications web innovantes et créatives !">
 ```
 
-```xtext arrow
-**🎯 À toi de jouer !**
+> #### 🎯 À toi de jouer !
+>
+>Ajoute les métadonnées pour l'encodage des caractères (utf-8), l'auteur et la description de ta page.
 
-Ajoute les métadonnées pour l'encodage des caractères (utf-8), l'auteur et la description de ta page.
-```
 
 ### La favicône
 
@@ -159,11 +159,9 @@ Ensuite, place la favicône à la racine de ton dossier de travail, puis ajoute 
 
 Nous verrons plus tard que la balise `<link>` peut-être utilisée pour lier d'autres éléments comme des feuilles de style par exemple.
 
-```xtext arrow
-**🎯 À toi de jouer !**
-
-Ajoute une favicône dans ton dossier et ajoute la balise sur toutes les pages de ton projet.
-```
+> #### 🎯 À toi de jouer !
+>
+>Ajoute une favicône dans ton dossier et ajoute la balise sur toutes les pages de ton projet.
 
 ## Récapitulatif
 
@@ -184,5 +182,7 @@ Mets en forme le travail que tu as réalisé durant cette ressource et compare l
 * [ ] Les pages contiennent un titre clair, respectant les principes évoqués dans la ressource ainsi qu'un commentaire expliquant le choix réalisé.
 * [ ] Toutes les balises `<meta>` sont présentes
 * [ ] La favicône s'affiche bien
+
+---
 
 [Voir la solution](solution.md){:.alert-info}

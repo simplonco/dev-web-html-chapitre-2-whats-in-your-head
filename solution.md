@@ -1,11 +1,11 @@
 ---
-title: HTML - Chapitre 2 | What's in your <head> ? - Solution
-description: HTML - Chapitre 2 | What's in your <head> ? - Solution
+title: HTML - Chapitre 2 | What's in your &lt;head&gt; ? - Solution
+description: HTML - Chapitre 2 | What's in your &lt;head&gt; ? - Solution
 show_toc: true
 parent: HTML - Chapitre 2 | What's in your &lt;head&gt; ?
 ---
 
-# Pour le fichier index.html:
+## Pour le fichier index.html
 
 ```html
 <!DOCTYPE html>
@@ -24,7 +24,7 @@ parent: HTML - Chapitre 2 | What's in your &lt;head&gt; ?
     <h2>Welcome here</h2>
     <p>Bienvenue sur mon <strong>incroyable</strong> site internet!</p>
     <p>Je m'appelle Bob</p>
-    <img src="https://placekitten.com/200/287" alt="A Cute cat" width="300 px" />
+    <img src="https://placekitten.com/200/287" alt="" width="300" />
     <button disabled="true">Click here</button>
     <a href="about.html">À propos de moi</a>
 </body>
@@ -32,7 +32,7 @@ parent: HTML - Chapitre 2 | What's in your &lt;head&gt; ?
 </html>
 ```
 
-# Pour le fichier about.html:
+## Pour le fichier about.html
 
 ```html
 <!DOCTYPE html>
